@@ -1,0 +1,18 @@
+
+{
+  "name": "L'Arbre des Savoirs IA",
+  "short_name": "Arbre IA",
+  "description": "Guide interactif des IA gratuites 2026",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#87CEEB",
+  "theme_color": "#064e3b",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2922/2922561.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
